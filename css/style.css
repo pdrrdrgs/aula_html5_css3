@@ -1,0 +1,38 @@
+body{
+    background: #fefefe;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+header{
+    margin-top: 70px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+h1{
+    color: #fa26a0;
+    font-family: 'Righteous', cursive;
+}
+
+h2{
+    color: #fa26a0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+}
+
+p{
+    font-weight: 400;
+}
+
+.imgPadrao{
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+i{
+    margin-bottom: 20px;
+    margin-right: 8px;
+}
